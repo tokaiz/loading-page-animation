@@ -1,2 +1,2 @@
 # loading-page-animation
-a simple responsive loading page animation
+simple loading page animation
